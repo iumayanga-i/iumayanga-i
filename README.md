@@ -1,4 +1,4 @@
-[![MasterHead](https://pic.iumayanga.uk.eu.org/png/github-header-image.png)]
+![MasterHead](https://pic.iumayanga.uk.eu.org/png/github-header-image.png)
 <h1 align="center">Hi 👋, I'm 𝖀𝖒𝖆𝖞𝖆𝖓𝖌𝖆</h1>
 <h3 align="center">A fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://pic.iumayanga.uk.eu.org/programmeranimated.gif">
